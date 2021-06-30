@@ -37,11 +37,17 @@ Tutorial:
 
 Example results
 """
+
 Input_ID	Position	Code	Peptide		Kinase	Source	Probability
+
 Q6GZX3		2		S	******MSIIGATRL	AGC	Pred.	1
+
 Q6GZX3		7		T	*MSIIGATRLQNDKS	AGC	Pred.	0.945
+
 Q6GZX3		14		S	TRLQNDKSDTYSAGP	AGC	Pred.	0.996
+
 .
 .
 .
+
 """
