@@ -1,0 +1,17 @@
+Unnamed: 0,KIN_ACC,KINASE,SUB_ACC,POSITION,CODE,PEPTIDE,KIN_ORGANISM,SOURCE,Family,Group,Integrated_names,group_family,organism,organismID,entry_name
+0,O00418,EEF2K,O00418,396,S,TFDSLPSSPSSATPH,HUMAN,PSP,Alpha,Atypical,Atypical_Alpha_EEF2K,Atypical_Alpha,Homo sapiens (Human),9606.0,EF2K_HUMAN
+1,O00418,EEF2K,O00418,366,S,SPQVRTLSGSRPPLL,HUMAN,PSP,Alpha,Atypical,Atypical_Alpha_EEF2K,Atypical_Alpha,Homo sapiens (Human),9606.0,EF2K_HUMAN
+2,O00418,EEF2K,P55823,56,T,RAGETRFTDTRKDEQ,HUMAN,PSP,Alpha,Atypical,Atypical_Alpha_EEF2K,Atypical_Alpha,Homo sapiens (Human),9606.0,EF2K_HUMAN
+3,O00418,EEF2K,O00418,78,S,SSGSPANSFHFKEAW,HUMAN,PSP,Alpha,Atypical,Atypical_Alpha_EEF2K,Atypical_Alpha,Homo sapiens (Human),9606.0,EF2K_HUMAN
+4,O00418,EEF2K,O00418,66,S,YYSNLTKSERYSSSG,HUMAN,PSP,Alpha,Atypical,Atypical_Alpha_EEF2K,Atypical_Alpha,Homo sapiens (Human),9606.0,EF2K_HUMAN
+5,O00418,EEF2K,O00418,441,S,ESENSGDSGYPSEKR,HUMAN,PSP,Alpha,Atypical,Atypical_Alpha_EEF2K,Atypical_Alpha,Homo sapiens (Human),9606.0,EF2K_HUMAN
+6,O00418,EEF2K,O00418,500,S,RLHLPRASAVALEVQ,HUMAN,PSP,Alpha,Atypical,Atypical_Alpha_EEF2K,Atypical_Alpha,Homo sapiens (Human),9606.0,EF2K_HUMAN
+7,O00418,EEF2K,O00418,348,T,KLLQSAKTILRGTEE,HUMAN,PSP,Alpha,Atypical,Atypical_Alpha_EEF2K,Atypical_Alpha,Homo sapiens (Human),9606.0,EF2K_HUMAN
+8,O00418,EEF2K,O00418,61,S,SKVNKYYSNLTKSER,HUMAN,PSP,Alpha,Atypical,Atypical_Alpha_EEF2K,Atypical_Alpha,Homo sapiens (Human),9606.0,EF2K_HUMAN
+9,O00418,EEF2K,O00418,353,T,AKTILRGTEEKCGSP,HUMAN,PSP,Alpha,Atypical,Atypical_Alpha_EEF2K,Atypical_Alpha,Homo sapiens (Human),9606.0,EF2K_HUMAN
+10,O00418,EEF2K,O00418,491,S,EKWNLLNSSRLHLPR,HUMAN,PSP,Alpha,Atypical,Atypical_Alpha_EEF2K,Atypical_Alpha,Homo sapiens (Human),9606.0,EF2K_HUMAN
+11,O00418,EEF2K,O00418,445,S,SGDSGYPSEKRGELD,HUMAN,PSP,Alpha,Atypical,Atypical_Alpha_EEF2K,Atypical_Alpha,Homo sapiens (Human),9606.0,EF2K_HUMAN
+12,O00418,EEF2K,O00418,474,S,KYESDEDSLGSSGRV,HUMAN,PSP,Alpha,Atypical,Atypical_Alpha_EEF2K,Atypical_Alpha,Homo sapiens (Human),9606.0,EF2K_HUMAN
+13,O00418,EEF2K,P14618,129,T,GLIKGSGTAEVELKK,HUMAN,PSP,Alpha,Atypical,Atypical_Alpha_EEF2K,Atypical_Alpha,Homo sapiens (Human),9606.0,EF2K_HUMAN
+14,O00418,EEF2K,P55823,53,T,ASARAGETRFTDTRK,HUMAN,PSP,Alpha,Atypical,Atypical_Alpha_EEF2K,Atypical_Alpha,Homo sapiens (Human),9606.0,EF2K_HUMAN
+15,O00418,EEF2K,P55823,58,T,GETRFTDTRKDEQER,HUMAN,PSP,Alpha,Atypical,Atypical_Alpha_EEF2K,Atypical_Alpha,Homo sapiens (Human),9606.0,EF2K_HUMAN

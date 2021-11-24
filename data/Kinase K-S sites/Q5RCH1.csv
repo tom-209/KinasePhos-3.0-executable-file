@@ -1,0 +1,18 @@
+Unnamed: 0,KIN_ACC,KINASE,SUB_ACC,POSITION,CODE,PEPTIDE,KIN_ORGANISM,SOURCE,Family,Group,Integrated_names,group_family,organism,organismID,entry_name
+0,Q5RCH1,CDK1,Q5RAH9,34,T,FLEGCACTPERMAEA,PONAB,Uniprot,CDK,CMGC,CMGC_CDK_CDK1,CMGC_CDK,Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii),9601.0,CDK1_PONAB
+1,Q5RCH1,CDK1,Q5R7D8,186,T,KTMKGSSTPVKN***,PONAB,Uniprot,CDK,CMGC,CMGC_CDK_CDK1,CMGC_CDK,Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii),9601.0,CDK1_PONAB
+2,Q5RCH1,CDK1,Q5R7H4,71,S,KGGSTSSSPSRRRGS,PONAB,Uniprot,CDK,CMGC,CMGC_CDK_CDK1,CMGC_CDK,Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii),9601.0,CDK1_PONAB
+3,Q5RCH1,CDK1,Q5R7H4,86,S,RSRSRSRSPGRPPKS,PONAB,Uniprot,CDK,CMGC,CMGC_CDK_CDK1,CMGC_CDK,Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii),9601.0,CDK1_PONAB
+4,Q5RCH1,CDK1,Q5RBH3,78,S,RAYPGQPSPRGLHLE,PONAB,Uniprot,CDK,CMGC,CMGC_CDK_CDK1,CMGC_CDK,Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii),9601.0,CDK1_PONAB
+5,Q5RCH1,CDK1,Q5RBH3,172,T,PDHGDPRTPGPPRST,PONAB,Uniprot,CDK,CMGC,CMGC_CDK_CDK1,CMGC_CDK,Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii),9601.0,CDK1_PONAB
+6,Q5RCH1,CDK1,Q5RBH3,214,S,NKEVPHSSPARGTPA,PONAB,Uniprot,CDK,CMGC,CMGC_CDK_CDK1,CMGC_CDK,Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii),9601.0,CDK1_PONAB
+7,Q5RCH1,CDK1,Q5RBH3,284,S,GSLAPVESPGTPKET,PONAB,Uniprot,CDK,CMGC,CMGC_CDK_CDK1,CMGC_CDK,Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii),9601.0,CDK1_PONAB
+8,Q5RCH1,CDK1,Q5RBH3,287,T,APVESPGTPKETPIE,PONAB,Uniprot,CDK,CMGC,CMGC_CDK_CDK1,CMGC_CDK,Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii),9601.0,CDK1_PONAB
+9,Q5RCH1,CDK1,Q5RBH3,377,T,LHVGRASTPDWVSED,PONAB,Uniprot,CDK,CMGC,CMGC_CDK_CDK1,CMGC_CDK,Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii),9601.0,CDK1_PONAB
+10,Q5RCH1,CDK1,Q5R8T7,219,T,ASLSLPATPVGKGTE,PONAB,Uniprot,CDK,CMGC,CMGC_CDK_CDK1,CMGC_CDK,Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii),9601.0,CDK1_PONAB
+11,Q5RCH1,CDK1,Q5R8T7,242,S,IPNGFGTSPLTPSAR,PONAB,Uniprot,CDK,CMGC,CMGC_CDK_CDK1,CMGC_CDK,Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii),9601.0,CDK1_PONAB
+12,Q5RCH1,CDK1,Q5R8T7,245,T,GFGTSPLTPSARISA,PONAB,Uniprot,CDK,CMGC,CMGC_CDK_CDK1,CMGC_CDK,Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii),9601.0,CDK1_PONAB
+13,Q5RCH1,CDK1,Q5RBG3,140,S,AVERVTKSPGETSKP,PONAB,Uniprot,CDK,CMGC,CMGC_CDK_CDK1,CMGC_CDK,Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii),9601.0,CDK1_PONAB
+14,Q5RCH1,CDK1,Q5RC43,29,S,QSPGGFGSPAPSQAE,PONAB,Uniprot,CDK,CMGC,CMGC_CDK_CDK1,CMGC_CDK,Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii),9601.0,CDK1_PONAB
+15,Q5RCH1,CDK1,Q5R465,221,T,KDEILPTTPISEQKG,PONAB,Uniprot,CDK,CMGC,CMGC_CDK_CDK1,CMGC_CDK,Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii),9601.0,CDK1_PONAB
+16,Q5RCH1,CDK1,Q5R943,172,S,NTFSVVPSPKVSDTV,PONAB,Uniprot,CDK,CMGC,CMGC_CDK_CDK1,CMGC_CDK,Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii),9601.0,CDK1_PONAB

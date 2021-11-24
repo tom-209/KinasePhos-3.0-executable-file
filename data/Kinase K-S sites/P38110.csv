@@ -1,0 +1,20 @@
+Unnamed: 0,KIN_ACC,KINASE,SUB_ACC,POSITION,CODE,PEPTIDE,KIN_ORGANISM,SOURCE,Family,Group,Integrated_names,group_family,organism,organismID,entry_name
+0,P38110,ATM,P40467,166,S,FHNFKRDSQSFLDDT,YEAST,Uniprot,PIKK,Atypical,Atypical_PIKK_ATM,Atypical_PIKK,Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast),559292.0,ATM_YEAST
+1,P38110,ATM,P17106,45,S,QRDQGLLSQESNDGN,YEAST,Uniprot,PIKK,Atypical,Atypical_PIKK_ATM,Atypical_PIKK,Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast),559292.0,ATM_YEAST
+2,P38110,ATM,Q04603,183,S,EKKQKTESQDVETRV,YEAST,Uniprot,PIKK,Atypical,Atypical_PIKK_ATM,Atypical_PIKK,Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast),559292.0,ATM_YEAST
+3,P38110,ATM,P38333,172,S,ASIREKESQVEDMQD,YEAST,Uniprot,PIKK,Atypical,Atypical_PIKK_ATM,Atypical_PIKK,Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast),559292.0,ATM_YEAST
+4,P38110,ATM,P22943,21,S,SEALKPDSQKSYAEQ,YEAST,Uniprot,PIKK,Atypical,Atypical_PIKK_ATM,Atypical_PIKK,Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast),559292.0,ATM_YEAST
+5,P38110,ATM,Q06505,23,S,PEDGTASSQKSTINA,YEAST,Uniprot,PIKK,Atypical,Atypical_PIKK_ATM,Atypical_PIKK,Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast),559292.0,ATM_YEAST
+6,P38110,ATM,P38920,441,S,KVTNVSHSQEAEKLT,YEAST,Uniprot,PIKK,Atypical,Atypical_PIKK_ATM,Atypical_PIKK,Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast),559292.0,ATM_YEAST
+7,P38110,ATM,P22336,178,S,FANENPNSQKTRPIF,YEAST,Uniprot,PIKK,Atypical,Atypical_PIKK_ATM,Atypical_PIKK,Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast),559292.0,ATM_YEAST
+8,P38110,ATM,Q12098,72,T,TAQKSPMTQETTKND,YEAST,Uniprot,PIKK,Atypical,Atypical_PIKK_ATM,Atypical_PIKK,Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast),559292.0,ATM_YEAST
+9,P38110,ATM,Q12098,113,T,EENIFINTQIQSRLD,YEAST,Uniprot,PIKK,Atypical,Atypical_PIKK_ATM,Atypical_PIKK,Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast),559292.0,ATM_YEAST
+10,P38110,ATM,Q12098,289,S,SLDNQESSQQRLWTA,YEAST,Uniprot,PIKK,Atypical,Atypical_PIKK_ATM,Atypical_PIKK,Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast),559292.0,ATM_YEAST
+11,P38110,ATM,Q12098,319,T,QEERIRDTQSAVNFL,YEAST,Uniprot,PIKK,Atypical,Atypical_PIKK_ATM,Atypical_PIKK,Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast),559292.0,ATM_YEAST
+12,P38110,ATM,Q12098,329,S,AVNFLSLSQVMDDKS,YEAST,Uniprot,PIKK,Atypical,Atypical_PIKK_ATM,Atypical_PIKK,Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast),559292.0,ATM_YEAST
+13,P38110,ATM,Q12098,355,S,SRGDSTSSQEYGNGL,YEAST,Uniprot,PIKK,Atypical,Atypical_PIKK_ATM,Atypical_PIKK,Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast),559292.0,ATM_YEAST
+14,P38110,ATM,P35177,78,T,VEKSFPLTQEEEHHG,YEAST,Uniprot,PIKK,Atypical,Atypical_PIKK_ATM,Atypical_PIKK,Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast),559292.0,ATM_YEAST
+15,P38110,ATM,P46676,712,S,TFVPLENSQPSDTIR,YEAST,Uniprot,PIKK,Atypical,Atypical_PIKK_ATM,Atypical_PIKK,Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast),559292.0,ATM_YEAST
+16,P38110,ATM,Q12009,7,S,*MKAKPLSQDPGSKR,YEAST,Uniprot,PIKK,Atypical,Atypical_PIKK_ATM,Atypical_PIKK,Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast),559292.0,ATM_YEAST
+17,P38110,ATM,P16140,511,S,SGKKKDASQEESLI*,YEAST,Uniprot,PIKK,Atypical,Atypical_PIKK_ATM,Atypical_PIKK,Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast),559292.0,ATM_YEAST
+18,P38110,ATM,Q06224,517,S,ENEDNLDSQAEKGLV,YEAST,Uniprot,PIKK,Atypical,Atypical_PIKK_ATM,Atypical_PIKK,Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast),559292.0,ATM_YEAST

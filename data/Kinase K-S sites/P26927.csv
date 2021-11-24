@@ -1,0 +1,16 @@
+Unnamed: 0,KIN_ACC,KINASE,SUB_ACC,POSITION,CODE,PEPTIDE,KIN_ORGANISM,SOURCE,Family,Group,Integrated_names,group_family,organism,organismID,entry_name
+0,P26927,MST1,P10275,651,S,GEASSTTSPTEETTQ,HUMAN,Uniprot,Other.Unique,Other,Other_Other.Unique_MST1,Other_Other.Unique,Homo sapiens (Human),9606.0,HGFL_HUMAN
+1,P26927,MST1,Q12778,218,S,NSIRHNLSLHSKFIR,HUMAN,Uniprot,Other.Unique,Other,Other_Other.Unique_MST1,Other_Other.Unique,Homo sapiens (Human),9606.0,HGFL_HUMAN
+2,P26927,MST1,Q12778,234,S,QNEGTGKSSWWMLNP,HUMAN,Uniprot,Other.Unique,Other,Other_Other.Unique_MST1,Other_Other.Unique,Homo sapiens (Human),9606.0,HGFL_HUMAN
+3,P26927,MST1,Q12778,235,S,NEGTGKSSWWMLNPE,HUMAN,Uniprot,Other.Unique,Other,Other_Other.Unique_MST1,Other_Other.Unique,Homo sapiens (Human),9606.0,HGFL_HUMAN
+4,P26927,MST1,O43524,209,S,SSAGWKNSIRHNLSL,HUMAN,Uniprot,Other.Unique,Other,Other_Other.Unique_MST1,Other_Other.Unique,Homo sapiens (Human),9606.0,HGFL_HUMAN
+5,P26927,MST1,P33778,15,S,APAPKKGSKKAITKA,HUMAN,Uniprot,Other.Unique,Other,Other_Other.Unique_MST1,Other_Other.Unique,Homo sapiens (Human),9606.0,HGFL_HUMAN
+6,P26927,MST1,Q99879,15,S,APVPKKGSKKAINKA,HUMAN,Uniprot,Other.Unique,Other,Other_Other.Unique_MST1,Other_Other.Unique,Homo sapiens (Human),9606.0,HGFL_HUMAN
+7,P26927,MST1,Q5QNW6,15,S,APAPKKGSKKAVTKV,HUMAN,Uniprot,Other.Unique,Other,Other_Other.Unique_MST1,Other_Other.Unique,Homo sapiens (Human),9606.0,HGFL_HUMAN
+8,P26927,MST1,P57053,15,S,APAPKKGSKKAVTKA,HUMAN,Uniprot,Other.Unique,Other,Other_Other.Unique_MST1,Other_Other.Unique,Homo sapiens (Human),9606.0,HGFL_HUMAN
+9,P26927,MST1,Q7L9L4,12,T,FGSRSSKTFKPKKNI,HUMAN,Uniprot,Other.Unique,Other,Other_Other.Unique_MST1,Other_Other.Unique,Homo sapiens (Human),9606.0,HGFL_HUMAN
+10,P26927,MST1,Q7L9L4,35,T,LLKHAEATLGSGNLR,HUMAN,Uniprot,Other.Unique,Other,Other_Other.Unique_MST1,Other_Other.Unique,Homo sapiens (Human),9606.0,HGFL_HUMAN
+11,P26927,MST1,P19429,31,T,SNYRAYATEPHAKKK,HUMAN,Uniprot,Other.Unique,Other,Other_Other.Unique_MST1,Other_Other.Unique,Homo sapiens (Human),9606.0,HGFL_HUMAN
+12,P26927,MST1,P19429,51,T,SRKLQLKTLLLQIAK,HUMAN,Uniprot,Other.Unique,Other,Other_Other.Unique_MST1,Other_Other.Unique,Homo sapiens (Human),9606.0,HGFL_HUMAN
+13,P26927,MST1,P19429,129,T,ITEIADLTQKIFDLR,HUMAN,Uniprot,Other.Unique,Other,Other_Other.Unique_MST1,Other_Other.Unique,Homo sapiens (Human),9606.0,HGFL_HUMAN
+14,P26927,MST1,P19429,143,T,RGKFKRPTLRRVRIS,HUMAN,Uniprot,Other.Unique,Other,Other_Other.Unique_MST1,Other_Other.Unique,Homo sapiens (Human),9606.0,HGFL_HUMAN

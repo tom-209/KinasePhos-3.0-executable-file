@@ -1,0 +1,19 @@
+Unnamed: 0,KIN_ACC,KINASE,SUB_ACC,POSITION,CODE,PEPTIDE,KIN_ORGANISM,SOURCE,Family,Group,Integrated_names,group_family,organism,organismID,entry_name
+0,P32562,CDC5,Q12158,175,S,GAAPWDTSLEVGRRF,YEAST,Uniprot,PLK,Other,Other_PLK_CDC5,Other_PLK,Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast),559292.0,CDC5_YEAST
+1,P32562,CDC5,Q12158,263,S,NNDDDDNSVEQGRRL,YEAST,Uniprot,PLK,Other,Other_PLK_CDC5,Other_PLK,Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast),559292.0,CDC5_YEAST
+2,P32562,CDC5,P32944,36,S,KQAGEDESDDFAIGG,YEAST,Uniprot,PLK,Other,Other_PLK_CDC5,Other_PLK,Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast),559292.0,CDC5_YEAST
+3,P32562,CDC5,P32944,102,S,EEGKDEESVDSRIKR,YEAST,Uniprot,PLK,Other,Other_PLK_CDC5,Other_PLK,Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast),559292.0,CDC5_YEAST
+4,P32562,CDC5,P32944,111,S,DSRIKRWSPFHENES,YEAST,Uniprot,PLK,Other,Other_PLK_CDC5,Other_PLK,Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast),559292.0,CDC5_YEAST
+5,P32562,CDC5,P32944,118,S,SPFHENESVTTPITK,YEAST,Uniprot,PLK,Other,Other_PLK_CDC5,Other_PLK,Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast),559292.0,CDC5_YEAST
+6,P32562,CDC5,P32944,131,T,TKRSAEKTNSPISLK,YEAST,Uniprot,PLK,Other,Other_PLK_CDC5,Other_PLK,Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast),559292.0,CDC5_YEAST
+7,P32562,CDC5,P32944,156,S,DARTENTSSSSSYSV,YEAST,Uniprot,PLK,Other,Other_PLK_CDC5,Other_PLK,Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast),559292.0,CDC5_YEAST
+8,P32562,CDC5,P32944,169,S,SVAKPNQSAFTSSGL,YEAST,Uniprot,PLK,Other,Other_PLK_CDC5,Other_PLK,Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast),559292.0,CDC5_YEAST
+9,P32562,CDC5,P32944,225,S,KNASSSLSVSPLNFV,YEAST,Uniprot,PLK,Other,Other_PLK_CDC5,Other_PLK,Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast),559292.0,CDC5_YEAST
+10,P32562,CDC5,P32944,254,S,PSSKALPSIHVPTID,YEAST,Uniprot,PLK,Other,Other_PLK_CDC5,Other_PLK,Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast),559292.0,CDC5_YEAST
+11,P32562,CDC5,P32944,280,T,HDRHNNQTNILSPTN,YEAST,Uniprot,PLK,Other,Other_PLK_CDC5,Other_PLK,Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast),559292.0,CDC5_YEAST
+12,P32562,CDC5,P32944,379,S,STPTRRKSIIGATSQ,YEAST,Uniprot,PLK,Other,Other_PLK_CDC5,Other_PLK,Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast),559292.0,CDC5_YEAST
+13,P32562,CDC5,P32944,395,S,HRESRPLSLSSAIVT,YEAST,Uniprot,PLK,Other,Other_PLK_CDC5,Other_PLK,Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast),559292.0,CDC5_YEAST
+14,P32562,CDC5,P32944,438,S,KLSANPDSHLFEKFT,YEAST,Uniprot,PLK,Other,Other_PLK_CDC5,Other_PLK,Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast),559292.0,CDC5_YEAST
+15,P32562,CDC5,P32944,610,S,HLPLEDKSFENEGDR,YEAST,Uniprot,PLK,Other,Other_PLK_CDC5,Other_PLK,Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast),559292.0,CDC5_YEAST
+16,P32562,CDC5,P32944,629,T,PEIISDCTYDYKADI,YEAST,Uniprot,PLK,Other,Other_PLK_CDC5,Other_PLK,Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast),559292.0,CDC5_YEAST
+17,P32562,CDC5,P32944,688,T,ESLFSDITKVDTNDL,YEAST,Uniprot,PLK,Other,Other_PLK_CDC5,Other_PLK,Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast),559292.0,CDC5_YEAST
