@@ -4,6 +4,7 @@ This project contains the code to implement KinasePhos 3.0, if you use any of th
 "Ma, Renfei, Shangfu Li, Wenshuo Li, Lantian Yao, Hsien-Da Huang, and Tzong-Yi Lee. "KinasePhos 3.0: Redesign and Expansion of the Prediction on Kinase-specific Phosphorylation Sites." bioRxiv (2021)."
 
 ************************************ Folders ******************************************
+******
 ./data:
   1.Family K-S sites: Original data of experimentally verified kinase-specific phosphorylation sites at family level
   2.Family positive: Experimentally verified kinase-specific phosphorylation sites extracted from 1. 
@@ -15,16 +16,16 @@ This project contains the code to implement KinasePhos 3.0, if you use any of th
 
  !!!It should be noted that CD-HIT and CD-HIT-2D were adopted to reduce data similarity.
 
-
+******
 ./features:
  This folder contains the features of positive and negative data encoded with BLOSUM62, the data were clustered at group, family, and individual kinase level.
  For family and individual kinase level, S/T/Y, S/T and Y sites were considered separately.
 
-
+******
 ./pretrained XGBoost models
  This folder contains the pretrained XGBoost models of KinasePhos 3.0
 
-
+******
 ./results
  This folder contains the performance of all models resulting from using 10-fold cross-validation
 
