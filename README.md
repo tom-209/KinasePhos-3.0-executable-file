@@ -16,7 +16,7 @@ This project contains the code to implement KinasePhos 3.0, if you use any of th
 
  !!!It should be noted that CD-HIT and CD-HIT-2D were adopted to reduce data similarity.
 
-******
+**
 ./features:
  This folder contains the features of positive and negative data encoded with BLOSUM62, the data were clustered at group, family, and individual kinase level.
  For family and individual kinase level, S/T/Y, S/T and Y sites were considered separately.
